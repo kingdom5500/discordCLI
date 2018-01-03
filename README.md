@@ -1,0 +1,2 @@
+# discordCLI
+CLI for discord

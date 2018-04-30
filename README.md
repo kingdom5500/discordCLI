@@ -1,2 +1,2 @@
 # discordCLI
-CLI for discord
+Interfaz de la línea de comandos para discord

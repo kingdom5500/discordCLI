@@ -61,7 +61,7 @@ instance/
 # Cosas de Scrapy:
 .scrapy
 
-# Sphinx documentación
+# documentación de Sphinx
 docs/_build/
 
 # PyBuilder
@@ -73,10 +73,10 @@ target/
 # pyenv
 .python-version
 
-# celery beat schedule file
+# archivo de horario de celerybeat
 celerybeat-schedule
 
-# SageMath parsed files
+# archivo de analizado de SageMath
 *.sage.py
 
 # dotenv
@@ -94,7 +94,7 @@ ENV/
 # configuración del proyecto de Rope
 .ropeproject
 
-# mkdocs documentación
+# documentación de mkdocs
 /site
 
 # mypy

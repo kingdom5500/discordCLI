@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensiones
+# extensiones de C
 *.so
 
 # Distribución / embalaje
@@ -31,7 +31,7 @@ wheels/
 *.manifest
 *.spec
 
-# Installer logs
+# Registros de instalador
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -50,15 +50,15 @@ coverage.xml
 *.mo
 *.pot
 
-# Django cosas:
+# Cosas de Django:
 *.log
 local_settings.py
 
-# Flask cosas:
+# Cosas de Flask:
 instance/
 .webassets-cache
 
-# Scrapy cosas:
+# Cosas de Scrapy:
 .scrapy
 
 # Sphinx documentación
@@ -87,11 +87,11 @@ celerybeat-schedule
 venv/
 ENV/
 
-# Spyder project settings
+# configuración del proyecto de Spyder
 .spyderproject
 .spyproject
 
-# Rope project settings
+# configuración del proyecto de Rope
 .ropeproject
 
 # mkdocs documentación

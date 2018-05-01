@@ -1,12 +1,12 @@
-# Byte-compiled / optimized / DLL files
+# Byte-compilado / optimizado / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# extensiones de C
 *.so
 
-# Distribution / packaging
+# Distribución / embalaje
 .Python
 env/
 build/
@@ -26,16 +26,16 @@ wheels/
 *.egg
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+#  Por lo general, estos archivos están escritos por una secuencia de comandos python a partir de una plantilla
+#  antes de que PyInstaller construya el exe, para inyectarle fecha / otras informaciones.
 *.manifest
 *.spec
 
-# Installer logs
+# Registros de instalador
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test / coverage informes
 htmlcov/
 .tox/
 .coverage
@@ -46,22 +46,22 @@ coverage.xml
 *.cover
 .hypothesis/
 
-# Translations
+# Traducciones
 *.mo
 *.pot
 
-# Django stuff:
+# Cosas de Django:
 *.log
 local_settings.py
 
-# Flask stuff:
+# Cosas de Flask:
 instance/
 .webassets-cache
 
-# Scrapy stuff:
+# Cosas de Scrapy:
 .scrapy
 
-# Sphinx documentation
+# documentación de Sphinx
 docs/_build/
 
 # PyBuilder
@@ -73,10 +73,10 @@ target/
 # pyenv
 .python-version
 
-# celery beat schedule file
+# archivo de horario de celerybeat
 celerybeat-schedule
 
-# SageMath parsed files
+# archivo de analizado de SageMath
 *.sage.py
 
 # dotenv
@@ -87,14 +87,14 @@ celerybeat-schedule
 venv/
 ENV/
 
-# Spyder project settings
+# configuración del proyecto de Spyder
 .spyderproject
 .spyproject
 
-# Rope project settings
+# configuración del proyecto de Rope
 .ropeproject
 
-# mkdocs documentation
+# documentación de mkdocs
 /site
 
 # mypy
